@@ -1,0 +1,879 @@
+Temas disponíveis,,,,variável,variável questionário de 2017
+,,,,,
+1. INFORMAÇÕES DO ATUAL PREFEITO,,,,título link,
+2. RECURSOS HUMANOS POR VÍNCULO,,,,título link,
+3. HABITAÇÃO,,,,título link,
+4. TRANSPORTE,,,,título link,
+5. AGROPECUÁRIA,,,,título link,
+6. MEIO AMBIENTE,,,,título link,
+7. GESTÃO DE RISCOS E RESPOSTA A DESASTRES,,,,título link,
+8. VARIÁVEIS EXTERNAS,,,,título link,
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais - 2017",,,,,
+,,,,,
+Código do município,,,,COD_MUNIC,
+,,,,,
+1. INFORMAÇÕES DO ATUAL PREFEITO,,,,,
+Estava em exercício do mandato de prefeito(a) neste município em 2016,,,,MPEG02,B0311
+Sexo do(a) prefeito(a),,,,MPEG03,B0312
+Idade,,,,MPEG04,B0313
+Escolaridade do(a) prefeito(a),,,,MPEG05,B0314
+Partido pelo qual o(a) prefeito(a) foi eleito(a),,,,MPEG06,B0315
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais - 2017",,,,,
+,,,,,
+2. RECURSOS HUMANOS POR VÍNCULO,,,,,
+2.1 Composição do quadro de pessoal da administração direta,,,,subtítulo link,
+2.2 Composição do quadro de pessoal da administração indireta,,,,subtítulo link,
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais - 2017",,,,,
+,,,,,
+2. RECURSOS HUMANOS POR VÍNCULO,,,,,
+2.1 Composição do quadro de pessoal da administração direta,,,,,
+,Estatutários,,,MREH0111,B040111
+,Celetistas,,,MREH0112,B040112
+,Somente comissionados,,,MREH0113,B040113
+,Estagiários,,,MREH0114,B040114
+,Sem vínculo permanente,,,MREH0115,B040115
+Total¹,,,,MREH0116,B040116
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+(1) Inclusive os sem declaração de vínculo.,,,,,
+"(*) Não soube informar - sabe que existe, mas não soube informar.",,,,,
+,,,,,
+2.2 Composição do quadro de pessoal da administração indireta,,,,,
+Administração indireta - existência,,,,MREH02,B0402
+,,Estatutários,,MREH0311,B040331
+,,Celetistas,,MREH0312,B040332
+,,Somente comissionados,,MREH0313,B040333
+,,Estagiários,,MREH0314,B040334
+,,Sem vínculo permanente,,MREH0315,B040335
+,Total¹,,,MREH0316,B040336
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+(1) Inclusive os sem declaração de vínculo.,,,,,
+"(*) Não soube informar - sabe que existe, mas não soube informar.",,,,,
+,,,,,
+3. HABITAÇÃO,,,,,
+3.1 Órgão gestor e plano municipal de habitação,,,,subtítulo link,
+3.2 Conselho e fundo municipal de habitação,,,,subtítulo link,
+3.3 Cadastro de famílias interessadas em programas habitacionais,,,,subtítulo link,
+"3.4 Favelas, cortiços e loteamentos irregulares",,,,subtítulo link,
+3.5 Programas ou ações na área de habitação,,,,subtítulo link,
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+,,,,,
+3. HABITAÇÃO,,,,,
+3.1 Órgão gestor e plano municipal de habitação,,,,,
+Caracterização do órgão gestor ,,,,MHAB01,B0501
+Sexo do(a) titular do órgão gestor,,,,MHAB03,B0503
+Idade do(a) titular do órgão gestor,,,,MHAB04,B0504
+Escolaridade do(a) titular do órgão gestor,,,,MHAB06,B0505
+,,,,,
+Plano Municipal de Habitação - existência,,,,MHAB07,B0506
+,O Plano Municipal de Habitação é articulado ao Plano Diretor,,,MHAB071,B05061
+,Aspectos do Plano Municipal de Habitação,,,,
+,,Integrar as ações em habitação com as demais políticas urbanas e sociais de forma a garantir o direito à habitação como direito à cidade,,MHAB081,B05071
+,,"Promover a urbanização e recuperação física de favelas e loteamentos precários, bem como a regularização fundiária desses assentamentos e a melhoria das moradias existentes",,MHAB082,B05072
+,,Coibir novas ocupações por assentamentos habitacionais nas áreas inadequadas para essa finalidade,,MHAB083,B05073
+,,"Articular as instâncias municipal, estadual e federal de política e financiamento habitacional, visando a otimização dos recursos disponíveis",,MHAB084,B05074
+,,Garantir o melhor aproveitamento da infraestrutura instalada e das edificações existentes,,MHAB085,B05075
+,,"Garantir, no caso de necessidade de remoção de área de risco ou por necessidade de obra de urbanização, o atendimento habitacional das famílias a serem removidas",,MHAB086,B05076
+,,Produção de novas unidades habitacionais de interesse social,,MHAB087,B05077
+,,Priorizar ações nas áreas de risco,,MHAB088,B05078
+,,Outros,,MHAB089,B05079
+,,,,,
+O município realizou alguma Conferência Municipal de Habitação nos últimos 4 anos,,,,MHAB09,B0508
+,Foram consideradas como elementos de referência para a elaboração e desenvolvimento do Plano Municipal de Habitação as deliberações das conferências realizadas,,,MHAB091,B05081
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+"(2) Sem gestor - apesar de ter estrutura para a política, no momento da coleta da informação não tinha gestor nomeado.",,,,,
+,,,,,
+3.2 Conselho e fundo municipal de habitação,,,,,
+Conselho Municipal de Habitação - existência,,,,MHAB10,B0509
+,Ano de criação,,,MHAB101,B05091
+,Formação do conselho,,,MHAB102,B05092
+,Caráter do conselho,,,,
+,,Consultivo,,MHAB111,B05101
+,,Deliberativo,,MHAB112,B05102
+,,Normativo,,MHAB113,B05103
+,,Fiscalizador,,MHAB114,B05104
+,Quantidade de reuniões realizadas nos últimos 12 meses,,,MHAB12,B0511
+,,,,,
+Fundo Municipal de Habitação - existência,,,,MHAB16,B0512
+,O conselho gestor do Fundo é o Conselho Municipal de Habitação ,,,MHAB161,B05121
+,O fundo reúne todos os recursos orçamentários e de outras fontes destinados aos programas habitacionais,,,MHAB17,B0513
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+"(*) Não soube informar - sabe que existe, mas não soube informar.",,,,,
+,,,,,
+3.3 Cadastro de famílias interessadas em programas habitacionais,,,,,
+Cadastro ou levantamento de famílias interessadas em programas habitacionais - existência,,,,MHAB18,B0514
+,Em que ano foi realizado,,,MHAB181,B05141
+,O cadastro é informatizado,,,MHAB182,B05142
+,O cadastro inclui a natureza do benefício habitacional pretendido pelas famílias,,,MHAB183,B05143
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+"(*) Não soube informar - sabe que existe, mas não soube informar.",,,,,
+,,,,,
+"3.4 Favelas, cortiços e loteamentos irregulares",,,,,
+Existem no município,,,,,
+,"Favelas, mocambos, palafitas ou assemelhados",,,MHAB191,B05151
+,"Cortiços, casas de cômodos ou cabeças-de-porco",,,MHAB192,B05152
+,Loteamentos irregulares e/ou clandestinos,,,MHAB193,B05153
+,Ocupações de terrenos ou prédios por movimentos de moradia,,,MHAB194,B05154
+,Nenhum dos itens,,,MHAB195,B05155
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+3.5 Programas ou ações na área de habitação,,,,,
+"Foram realizados pela prefeitura, no ano de 2015 e/ou 2016, programas ou ações de",,,,,
+,Construção de unidades habitacionais,,,MHAB201,B05161
+,Aquisição de unidades habitacionais,,,MHAB202,B05162
+,Melhoria de unidades habitacionais,,,MHAB203,B05163
+,Oferta de material de construção,,,MHAB204,B05164
+,Oferta de lotes,,,MHAB205,B05165
+,Regularização fundiária,,,MHAB206,B05166
+,Urbanização de assentamentos,,,MHAB207,B05167
+,Nenhum dos programas ou ações,,,MHAB208,B05168
+A prefeitura tem algum programa que conceda o benefício do aluguel social,,,,MHAB21,B0517
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+4. TRANSPORTE,,,,,
+4.1 Órgão gestor e Plano Municipal de Transporte,,,,subtítulo link,
+4.2 Conselho e Fundo Municipal de Transporte,,,,subtítulo link,
+4.3 Serviços de transporte,,,,subtítulo link,
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+4. TRANSPORTE,,,,,
+4.1 Órgão gestor e Plano Municipal de Transporte,,,,,
+Caracterização do órgão gestor ,,,,MTRA01,B0601
+Sexo do(a) titular do órgão gestor,,,,MTRA03,B0603
+Idade do(a) titular do órgão gestor,,,,MTRA04,B0604
+Escolaridade do(a) titular do órgão gestor,,,,MTRA06,B0605
+,,,,,
+Plano Municipal de Transporte - existência,,,,MTRA07,B0606
+,Aspectos do Plano Municipal de Transporte,,,,
+,,A política de circulação viária e de transportes do município,,MTRA081,B06071
+,,"A estrutura e a forma de organização do sistema de transporte de passageiros, bem como suas regras básicas de funcionamento",,MTRA082,B06072
+,,A política tarifária,,MTRA083,B06073
+,,"A estrutura, a forma de organização e as normas de utilização do espaço viário de uso público",,MTRA084,B06074
+,,O uso pelo pedestre e pelo ciclista do espaço viário de uso público,,MTRA085,B06075
+,,A inclusão de pessoas com deficiência na rede viária e no sistema de transporte,,MTRA086,B06076
+,,Outros,,MTRA087,B06077
+,,,,,
+O município realizou alguma Conferência Municipal de Transporte nos últimos 4 anos,,,,MTRA09,B0608
+,Foram consideradas como elementos de referência para a elaboração e desenvolvimento do Plano Municipal de Transporte as deliberações das conferências realizadas,,,MTRA091,B06081
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+"(2) Sem gestor - apesar de ter estrutura para a política, no momento da coleta da informação não tinha gestor nomeado.",,,,,
+,,,,,
+4.2 Conselho e Fundo Municipal de Transporte,,,,,
+O município possui Conselho Municipal de Transporte ou similar,,,,MTRA10,B0609
+,Ano de criação,,,MTRA101,B06091
+,Formação do conselho,,,MTRA102,B06092
+,Caráter do conselho,,,,
+,,Consultivo,,MTRA111,B06101
+,,Deliberativo,,MTRA112,B06102
+,,Normativo,,MTRA113,B06103
+,,Fiscalizador,,MTRA114,B06104
+,Quantidade de reuniões realizadas pelo Conselho Municipal de Transporte nos últimos 12 meses,,,MTRA12,B0611
+,,,,,
+Fundo Municipal de Transporte - existência,,,,MTRA16,B0612
+,O conselho gestor do Fundo é o Conselho Municipal de Transporte,,,MTRA161,B06121
+,O fundo tem financiado ações e projetos para questões do transporte nos últimos 12 meses,,,MTRA17,B0613
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+"(*) Não soube informar - sabe que existe, mas não soube informar.",,,,,
+,,,,,
+4.3 Serviços de transporte,,,,,
+Serviços regulares de transporte de passageiros existentes no município,,,,,
+,Barco,,,MTRA181,B06141
+,Metrô,,,MTRA182,B06142
+,Mototáxi,,,MTRA183,B06143
+,Táxi,,,MTRA184,B06144
+,Trem,,,MTRA185,B06145
+,Van,,,MTRA186,B06146
+,Avião,,,MTRA187,B06147
+,Nenhum dos relacionados,,,MTRA188,B06148
+,,,,,
+Transporte coletivo por ônibus intramunicipal,,,,MTRA19,B0615
+,Tipo de regulamentação,,,,
+,,Concessão,,MTRA1911,B061511
+,,,Concedida através de licitação,MTRA192,B06152
+,,Permissão,,MTRA1912,B061512
+,,,Concedida através de licitação,MTRA193,B06153
+,,Autorização,,MTRA1913,B061513
+,,Serviço prestado diretamente pela prefeitura,,MTRA1914,B061514
+,,Não regulamentado,,MTRA1915,B061515
+,Passageiros que possuem isenção formal da tarifa de ônibus,,,,
+,,Maiores de 60/65 anos,,MTRA201,B06161
+,,Estudantes da rede pública,,MTRA202,B06162
+,,Estudantes da rede privada,,MTRA203,B06163
+,,Carteiros,,MTRA204,B06164
+,,Pessoas com deficiência,,MTRA205,B06165
+,,Policiais,,MTRA206,B06166
+,,Professores,,MTRA207,B06167
+,,Crianças menores de 5 anos,,MTRA208,B06168
+,,Outros,,MTRA209,B06169
+,,Nenhum passageiro,,MTRA2010,B061610
+,Frota de ônibus municipais adaptada para pessoas com deficiência ou mobilidade reduzida,,,MTRA21,B0617
+,Tipo de adaptação adotada para o embarque e desembarque,,,,
+,,Piso baixo,,MTRA221,B06181
+,,Piso alto com acesso realizado por plataforma de embarque/desembarque,,MTRA222,B06182
+,,Piso alto equipado com plataforma elevatória veicular,,MTRA223,B06183
+,,Não sabe,,MTRA224,B06184
+,,,,,
+Transporte coletivo por ônibus intermunicipal,,,,MTRA23,B0619
+,"Este transporte coletivo atende também ao deslocamento entre bairros, distritos, localidades dentro do município",,,MTRA231,B06191
+,,,,,
+Ciclovia no município,,,,MTRA24,B0620
+Bicicletário no município,,,,MTRA25,B0621
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+5. AGROPECUÁRIA,,,,,
+5.1 Órgão gestor da política agropecuária,,,,subtítulo link,
+5.2 Conselho Municipal de Desenvolvimento Rural,,,,subtítulo link,
+5.3 Programas ou ações no setor agropecuário,,,,subtítulo link,
+5.4 Legislação sobre solo rural,,,,subtítulo link,
+5.5 Programas para agroindústria e promoção e apoio a festividades e premiação,,,,subtítulo link,
+5.6 Apoio às atividades agropecuárias,,,,subtítulo link,
+5.7 Apoio ao associativismo,,,,subtítulo link,
+5.8 Infraestrutura ,,,,subtítulo link,
+"5.9 Programa ou ação de aquisição de produtos e vacinação de rebanho, Serviço de Inspeção Municipal (SIM) e abatedouros",,,,subtítulo link,
+5.10 Cadastros sobre o setor agropecuário e agroindústrias,,,,subtítulo link,
+5.11 Informações estatísticas da agropecuária e conhecimento de atividade de aquicultura e/ou pesca,,,,subtítulo link,
+5.12 Comissão Municipal de Estatísticas Agropecuárias (COMEA),,,,subtítulo link,
+5.13 Extração vegetal,,,,subtítulo link,
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+5. AGROPECUÁRIA,,,,,
+5.1 Órgão gestor da política agropecuária,,,,,
+Caracterização do órgão gestor ,,,,MAGR01,B0701
+Secretaria ou setor a que está associada ou subordinada a agropecuária,,,,,
+,Meio Ambiente,,,MAGR021,B07021
+,Desenvolvimento econômico,,,MAGR022,B07022
+,Trabalho,,,MAGR023,B07023
+,Desenvolvimento rural,,,MAGR024,B07024
+,Abastecimento,,,MAGR025,B07025
+,Administração,,,MAGR026,B07026
+,Finanças,,,MAGR027,B07027
+,Pesca,,,MAGR028,B07028
+,Outra,,,MAGR029,B07029
+Sexo do(a) titular do órgão gestor,,,,MAGR04,B0704
+Idade do(a) titular do órgão gestor,,,,MAGR06,B0705
+Escolaridade do(a) titular do órgão gestor,,,,MAGR07,B0706
+,,,,,
+"A prefeitura possui, em seu quadro de funcionários efetivos, algum servidor com formação voltada para a agropecuária, no intuito de apoiar esta atividade no município",,,,MAGR08,B0707
+,Formação,,,,
+,,Agronomia,,MAGR0811,B070711
+,,Veterinária,,MAGR0812,B070712
+,,Zootecnia,,MAGR0813,B070713
+,,Curso técnico agrícola,,MAGR0814,B070714
+,,Outra,,MAGR0815,B070715
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+"(2) Sem gestor - apesar de ter estrutura para a política, no momento da coleta da informação não tinha gestor nomeado.",,,,,
+,,,,,
+5.2 Conselho Municipal de Desenvolvimento Rural,,,,,
+O município possui Conselho Municipal de Desenvolvimento Rural,,,,MAGR09,B0708
+,Ano de criação,,,MAGR091,B07081
+,Formação do conselho,,,MAGR092,B07082
+,Caráter do conselho,,,,
+,,Consultivo,,MAGR101,B07091
+,,Deliberativo,,MAGR102,B07092
+,,Normativo,,MAGR103,B07093
+,,Fiscalizador,,MAGR104,B07094
+,Quantidade de reuniões realizadas pelo Conselho Municipal de Desenvolvimento Rural nos últimos 12 meses,,,MAGR11,B0710
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+"(*) Não soube informar - sabe que existe, mas não soube informar.",,,,,
+,,,,,
+5.3 Programas ou ações no setor agropecuário,,,,,
+Programa ou ação de acesso facilitado aos produtores agropecuários desenvolvido pela prefeitura,,,,,
+,Sementes,,,MAGR151,B07111
+,,Forma de acesso,,,
+,,,Distribuição gratuita,MAGR15111,B0711111
+,,,Mais baratas,MAGR15112,B0711112
+,,,"A preço de mercado, porém financiadas",MAGR15113,B0711113
+,,,Outra forma,MAGR15114,B0711114
+,Mudas,,,MAGR152,B07112
+,,Forma de acesso,,,
+,,,Distribuição gratuita,MAGR15211,B0711211
+,,,Mais baratas,MAGR15212,B0711212
+,,,"A preço de mercado, porém financiadas",MAGR15213,B0711213
+,,,Outra forma,MAGR15214,B0711214
+,Adubos,,,MAGR153,B07113
+,,Forma de acesso,,,
+,,,Distribuição gratuita,MAGR15311,B0711311
+,,,Mais baratas,MAGR15312,B0711312
+,,,"A preço de mercado, porém financiadas",MAGR15313,B0711313
+,,,Outra forma,MAGR15314,B0711314
+,Ração ou forragem,,,MAGR154,B07114
+,,Forma de acesso,,,
+,,,Distribuição gratuita,MAGR15411,B0711411
+,,,Mais baratas,MAGR15412,B0711412
+,,,"A preço de mercado, porém financiadas",MAGR15413,B0711413
+,,,Outra forma,MAGR15414,B0711414
+,Alevinos,,,MAGR155,B07115
+,,Forma de acesso,,,
+,,,Distribuição gratuita,MAGR15511,B0711511
+,,,Mais baratas,MAGR15512,B0711512
+,,,"A preço de mercado, porém financiadas",MAGR15513,B0711513
+,,,Outra forma,MAGR15514,B0711514
+,Outros insumos,,,MAGR156,B07116
+,,,,,
+Programa ou ação para disponibilizar maquinário aos produtores agropecuários desenvolvido pela prefeitura,,,,,
+,Cessão temporária gratuita,,,MAGR161,B07121
+,Aluguel,,,MAGR162,B07122
+,Outro,,,MAGR163,B07123
+,Nenhum programa ou ação,,,MAGR164,B07124
+,,,,,
+A prefeitura desenvolve programa ou ação de estímulo à,,,,,
+,Agricultura orgânica,,,MAGR171,B07131
+,Agricultura familiar,,,MAGR172,B07132
+,Aquicultura,,,MAGR173,B07133
+,Pesca,,,MAGR174,B07134
+,Produção de hortas comunitárias,,,MAGR175,B07135
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+5.4 Legislação sobre solo rural,,,,,
+"Com relação ao solo rural, existe legislação municipal que trate",,,,,
+,Do parcelamento do solo,,,MAGR181,B07141
+,Do zoneamento ou uso e ocupação do solo,,,MAGR182,B07142
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+5.5 Programas para agroindústria e promoção e apoio a festividades e premiação,,,,,
+A prefeitura desenvolve programa ou ação para estimular a agroindústria,,,,MAGR19,B0715
+,,,,,
+A prefeitura promove ou apoia,,,,,
+,Festividades periódicas relacionadas à atividade agropecuária,,,MAGR201,B07161
+,Premiação ou forma de reconhecimento aos melhores produtores agropecuários do município,,,MAGR202,B07162
+,,,,,
+A prefeitura desenvolve programa ou ação de prevenção contra problemas climáticos para o setor agropecuário,,,,MAGR21,B0717
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+5.6 Apoio às atividades agropecuárias,,,,,
+Órgão público que atue na assistência técnica e/ou extensão rural no município ,,,,,
+,Órgão municipal,,,MAGR221,B07181
+,Órgão estadual,,,MAGR222,B07182
+,Órgão federal,,,MAGR223,B07183
+,Não existe,,,MAGR224,B07184
+,,,,,
+"Instituições que prestam apoio às atividades agropecuárias, seja em assistência técnica, extensão rural ou áreas correlatas que possuem convênio com a prefeitura",,,,MAGR23,B0719
+,,,,,
+"Prestadores de serviços de assistência técnica e/ou extensão rural para o setor agropecuário, contratados ou parceiros da prefeitura",,,,,
+,Empresa Privada,,,MAGR241,B07201
+,Organização não governamental,,,MAGR242,B07202
+,Outro,,,MAGR243,B07203
+,Não contratou,,,MAGR244,B07204
+,,,,,
+A prefeitura desenvolve programa ou ação,,,,,
+,De cunho social em apoio específico ao produtor agropecuário,,,MAGR251,B07211
+,,Área,,,
+,,,Educação,MAGR25111,B0721111
+,,,Saúde ou higiene,MAGR25112,B0721112
+,,,Distribuição de alimentos,MAGR25113,B0721113
+,,,Outra forma,MAGR25114,B0721114
+,Para fomentar o artesanato junto às comunidades rurais,,,MAGR252,B07212
+,,Área,,,
+,,,Capacitação,MAGR25211,B0721211
+,,,Apoio à comercialização,MAGR25212,B0721212
+,,,Estímulo ao associativismo,MAGR25213,B0721213
+,,,Outra,MAGR25214,B0721214
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+5.7 Apoio ao associativismo,,,,,
+"A prefeitura desenvolve programa ou ação para estímulo ao associativismo (associação de produtores, cooperativas etc.)",,,,MAGR26,B0722
+,,,,,
+Entidades de associativismo ou representação de produtores agropecuários com registro oficial na prefeitura,,,,,
+,Sindicatos rurais,,,MAGR271,B07231
+,Associações de produtores,,,MAGR272,B07232
+,Cooperativas,,,MAGR273,B07233
+,Não possui registro,,,MAGR274,B07234
+,,,,,
+Entidades de associativismo ou representação de produtores agropecuários que atuam no município,,,,,
+,Sindicatos rurais,,,MAGR281,B07241
+,Associações de produtores,,,MAGR282,B07242
+,Cooperativas,,,MAGR283,B07243
+,Outras,,,MAGR284,B07244
+,Nenhuma entidade,,,MAGR285,B07245
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+5.8 Infraestrutura ,,,,,
+"Infraestrutura disponibilizada pela prefeitura, de uso exclusivo de produtores agropecuários, para estimular a venda direta de seus produtos à população (consumidor final)",,,,,
+,Centro de comercialização de produtores,,,MAGR291,B07251
+,Feira de produtores,,,MAGR292,B07252
+,Outra,,,MAGR293,B07253
+,Nenhuma infraestrutura,,,MAGR294,B07254
+,,,,,
+Infraestrutura de comercialização de produtos agropecuários existente no município,,,,,
+,Centro de comercialização,,,MAGR301,B07261
+,Feiras,,,MAGR302,B07262
+,Outra,,,MAGR303,B07263
+,Nenhuma infraestrutura,,,MAGR304,B07264
+,,,,,
+A prefeitura possui parque de exposição próprio para uso do produtor agropecuário,,,,MAGR31,B0727
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+"5.9 Programa ou ação de aquisição de produtos e vacinação de rebanho, Serviço de Inspeção Municipal (SIM) e abatedouros",,,,,
+Programa ou ação de aquisição de produtos agropecuários do município desenvolvidos pela prefeitura,,,,,
+,Aquisição diretamente dos produtores,,,MAGR321,B07281
+,"Aquisição através de entidades (associações, cooperativas etc.)",,,MAGR322,B07282
+,Programa de Aquisição de Alimentos da Agricultura Familiar (PAA),,,MAGR323,B07283
+,Outro,,,MAGR324,B07284
+,Nenhum programa ou ação,,,MAGR325,B07285
+,,,,,
+Programa ou ação para vacinação de rebanho,,,,,
+,Vacinação gratuita de rebanhos,,,MAGR331,B07291
+,Acesso a vacinas mais baratas ou financiadas,,,MAGR332,B07292
+,Outro,,,MAGR333,B07293
+,Nenhum programa ou ação,,,MAGR334,B07294
+,,,,,
+"O município possui o Serviço de Inspeção Municipal (SIM) implementado, de modo a controlar a qualidade dos produtos de origem animal",,,,MAGR34,B0730
+,,,,,
+A prefeitura possui abatedouro municipal,,,,MAGR35,B0731
+,Abateu animal nos últimos 12 meses,,,MAGR351,B07311
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+5.10 Cadastros sobre o setor agropecuário e agroindústrias,,,,,
+Cadastro sobre o setor agropecuário existente na prefeitura,,,,,
+,De produtores agropecuários,,,MAGR361,B07321
+,De imóveis rurais,,,MAGR362,B07322
+,De associações de produtores,,,MAGR363,B07323
+,De cooperativas,,,MAGR364,B07324
+,Outros,,,MAGR365,B07325
+,Nenhum cadastro,,,MAGR366,B07326
+,,,,,
+Cadastro sobre agroindústrias que atuem no município existente na prefeitura,,,,,
+,De processamento de grãos,,,MAGR371,B07331
+,De processamento de frutas,,,MAGR372,B07332
+,De abatedouros,,,MAGR373,B07333
+,De laticínios,,,MAGR374,B07334
+,Outros,,,MAGR375,B07335
+,Nenhum cadastro,,,MAGR376,B07336
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+5.11 Informações estatísticas da agropecuária e conhecimento de atividade de aquicultura e/ou pesca,,,,,
+"A prefeitura possui algum servidor, em seu quadro efetivo, com a responsabilidade de levantar e arquivar informações estatísticas sobre a agropecuária municipal (área e produção agrícola, número de animais por rebanho etc.)",,,,MAGR38,B0734
+,,,,,
+A prefeitura efetivamente faz o levantamento de estatísticas sobre a agropecuária municipal,,,,MAGR39,B0735
+,Setor,,,,
+,,Agricultura,,MAGR3911,B073511
+,,Pecuária,,MAGR3912,B073512
+,,Outro,,MAGR3913,B073513
+,Periodicidade do levantamento,,,MAGR392,B07352
+,,,,,
+A prefeitura tem condições de informar estatísticas sobre os principais produtos agropecuários do município,,,,MAGR40,B0736
+,Setor,,,,
+,,Agricultura,,MAGR4011,B073611
+,,Pecuária,,MAGR4012,B073612
+,,Outro,,MAGR4013,B073613
+,,,,,
+A prefeitura tem conhecimento da existência da atividade de aquicultura e/ou pesca no município,,,,MAGR41,B0737
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+5.12 Comissão Municipal de Estatísticas Agropecuárias (COMEA),,,,,
+"A prefeitura conhece a Comissão Municipal de Estatísticas Agropecuárias (COMEA), coordenada pelo IBGE",,,,MAGR42,B0738
+,Participa das reuniões da COMEA,,,MAGR421,B07381
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+5.13 Extração vegetal,,,,,
+A prefeitura tem conhecimento da existência da atividade de extração vegetal no município,,,,MAGR43,B0739
+,,,,,
+A prefeitura possui algum programa ou ação de apoio à atividade de extração vegetal no município,,,,MAGR44,B0740
+,,,,,
+Centro de comercialização de produtos da extração vegetal no município,,,,MAGR45,B0741
+,,,,,
+Cadastro ligado à atividade da extração vegetal existente na prefeitura,,,,,
+,De pessoas que fazem extração vegetal,,,MAGR461,B07421
+,De associações ou cooperativas que fazem extração vegetal,,,MAGR462,B07422
+,Não possui cadastro,,,MAGR463,B07423
+,Não existe atividade de extração vegetal no município,,,MAGR464,B07424
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+6. MEIO AMBIENTE,,,,,
+6.1 Órgão gestor do meio ambiente,,,,subtítulo link,
+6.2 Recursos humanos na área do meio ambiente por vínculo e capacitação,,,,subtítulo link,
+6.3 Conselho e Fundo municipal de Meio Ambiente,,,,subtítulo link,
+6.4 Parcerias para a realização ou manutenção de ações na área do meio ambiente,,,,subtítulo link,
+6.5 Legislação ou instrumento de gestão ambiental  ,,,,subtítulo link,
+6.6 Plano de Gestão Integrada de Resíduos Sólidos,,,,subtítulo link,
+6.7 Programas em parceria com o Governo Federal,,,,subtítulo link,
+6.8 Pagamento de Serviços Ambientais,,,,subtítulo link,
+6.9 Impacto Ambiental e/ou processo/ação que resulte em impacto no ambiente,,,,subtítulo link,
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+6. MEIO AMBIENTE,,,,,
+6.1 Órgão gestor do meio ambiente,,,,,
+Caracterização do órgão gestor ,,,,MMAM01,B0801
+Sexo do(a) titular do órgão gestor,,,,MMAM03,B0805
+Idade do(a) titular do órgão gestor,,,,MMAM04,B0806
+Escolaridade do(a) titular do órgão gestor,,,,MMAM06,B0807
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+"(2) Sem gestor - apesar de ter estrutura para a política, no momento da coleta da informação não tinha gestor nomeado.",,,,,
+,,,,,
+6.2 Recursos humanos na área do meio ambiente por vínculo e capacitação,,,,,
+,Estatutários,,,MMAM071,B08081
+,Celetistas,,,MMAM072,B08082
+,Somente comissionados,,,MMAM073,B08083
+,Estagiários,,,MMAM074,B08084
+,Sem vínculo permanente,,,MMAM075,B08085
+Total¹,,,,MMAM076,B08086
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+(1) Inclusive os sem declaração de vínculo.,,,,,
+"(*) Não soube informar - sabe que existe, mas não soube informar.",,,,,
+,,,,,
+Nos últimos quatro anos servidores do município participaram de capacitação promovida pelo governo federal na área de meio ambiente,,,,MMAM08,B0809
+Em qual(is) área(s) temática(s) se deu(ram) essa(s) capacitação(ões),,,,,
+,Estruturação da gestão municipal de meio ambiente,,,MMAM091,B08101
+,Licenciamento,,,MMAM092,B08102
+,Educação ambiental,,,MMAM093,B08103
+,Educação ambiental voltada para a agricultura familiar,,,MMAM094,B08104
+,Cadastro Ambiental Rural,,,MMAM095,B08105
+,Resíduos Sólidos,,,MMAM096,B08106
+,Produção e consumo sustentáveis,,,MMAM097,B08107
+,Mudança do clima,,,MMAM098,B08108
+,Recursos Hídricos,,,MMAM099,B08109
+,Participação social em fóruns e colegiados de meio ambiente,,,MMAM0910,B081010
+,Outras,,,MMAM0911,B081011
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+6.3 Conselho e Fundo municipal de Meio Ambiente,,,,,
+O município possui Conselho Municipal de Meio Ambiente ou similar,,,,MMAM10,B0811
+,Ano de criação,,,MMAM101,B08111
+,Formação do conselho,,,MMAM102,B08112
+,Caráter do conselho,,,,
+,,Consultivo,,MMAM111,B08121
+,,Deliberativo,,MMAM112,B08122
+,,Normativo,,MMAM113,B08123
+,,Fiscalizador,,MMAM114,B08124
+,Quantidade de reuniões realizadas pelo Conselho Municipal de Meio Ambiente nos últimos 12 meses,,,MMAM12,B0813
+,,,,,
+A área responsável pelo tema meio ambiente dispõe de recursos financeiros específicos para serem utilizados no desenvolvimento de suas ações,,,,MMAM16,B0814
+,,,,,
+O município possui Fundo Municipal de Meio Ambiente ou similar,,,,MMAM17,B0815
+,O conselho gestor do Fundo é o Conselho Municipal de Meio Ambiente ou similar,,,MMAM171,B08151
+,No ano de 2016 foi utilizado recurso do Fundo Municipal de Meio Ambiente para ações ambientais,,,MMAM18,B0816
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+"(*) Não soube informar - sabe que existe, mas não soube informar.",,,,,
+,,,,,
+6.4 Parcerias para a realização ou manutenção de ações na área do meio ambiente,,,,,
+"O município participa de consórcio (público ou administrativo), convênio de parceria com o setor privado e/ou recebe apoio do setor privado e/ou de comunidades, que contribua para a realização ou manutenção de ações na área de meio ambiente",,,,,
+,Consórcio Público,,,,
+,,Intermunicipal,,MMAM191,B08171
+,,Estado,,MMAM192,B08172
+,,União,,MMAM193,B08173
+,Consórcio administrativo,,,,
+,,Intermunicipal,,MMAM194,B08174
+,,Estado,,MMAM195,B08175
+,,União,,MMAM196,B08176
+,Convênio de parceria com o setor privado,,,MMAM197,B08177
+,Apoio do setor privado ou de comunidades,,,MMAM198,B08178
+,Não participa,,,MMAM199,B08179
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+6.5 Legislação ou instrumento de gestão ambiental  ,,,,,
+"Legislação ou instrumento de gestão ambiental existente no município, mesmo que esteja inserido na Lei Orgânica, Plano Diretor, Código Ambiental, etc",,,,,
+,Sobre coleta seletiva de resíduos sólidos domésticos,,,MMAM201,B081801
+,,Ano de criação,,MMAM20011,B0818011
+,Sobre saneamento básico,,,MMAM202,B08182
+,,Ano de criação,,MMAM2021,B081821
+,Sobre gestão de bacias hidrográficas,,,MMAM203,B08183
+,,Ano de criação,,MMAM2031,B081831
+,Sobre área e/ou zona de proteção ou controle ambiental,,,MMAM204,B08184
+,,Ano de criação,,MMAM2041,B081841
+,Sobre destino das embalagens utilizadas em produtos agrotóxicos,,,MMAM205,B08185
+,,Ano de criação,,MMAM2051,B081851
+,Sobre poluição do ar,,,MMAM206,B08186
+,,Ano de criação,,MMAM2061,B081861
+,Sobre permissão de atividades extrativas minerais,,,MMAM207,B08187
+,,Ano de criação,,MMAM2071,B081871
+,Sobre fauna silvestre,,,MMAM208,B08188
+,,Ano de criação,,MMAM2081,B081881
+,Sobre florestas,,,MMAM209,B08189
+,,Ano de criação,,MMAM2091,B081891
+,Sobre proteção à biodiversidade,,,MMAM2010,B081810
+,,Ano de criação,,MMAM20101,B0818101
+,Sobre adaptação e mitigação de mudança do clima,,,MMAM2011,B081811
+,,Ano de criação,,MMAM20111,B0818111
+,Nenhuma legislação citada,,,MMAM2012,B081812
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+6.6 Plano de Gestão Integrada de Resíduos Sólidos,,,,,
+"O município possui Plano de Gestão Integrada de Resíduos Sólidos, nos termos da Política Nacional de Resíduos Sólidos",,,,MMAM21,B0819
+,Esse plano abrange apenas esse município,,,MMAM211,B08191
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+6.7 Programas em parceria com o Governo Federal,,,,,
+Programas implementados pelo governo municipal em parceria com o Governo Federal,,,,,
+,Coletivo Educador,,,MMAM221,B08201
+,Sala verde,,,MMAM222,B08202
+,Circuito Tela Verde,,,MMAM223,B08203
+,Etapa municipal da Conferência Infanto-Juvenil pelo Meio Ambiente,,,MMAM224,B08204
+,Educação ambiental no Plano de Gestão Integrada de Resíduos Sólidos – PGIRS,,,MMAM225,B08205
+,"Sustentabilidade ambiental das instituições públicas, como a Agenda Ambiental na Administração Pública - A3P",,,MMAM226,B08206
+,Programa de Educação Ambiental e Agricultura Familiar – PEAAF,,,MMAM227,B08207
+,Etapa municipal da Conferência Nacional de Meio Ambiente,,,MMAM228,B08208
+,Nenhum dos programas,,,MMAM229,B08209
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+6.8 Pagamento de Serviços Ambientais,,,,,
+O município paga diretamente por serviços ambientais – PSA,,,,MMAM23,B0821
+,Fonte de recursos nos últimos 12 meses,,,,
+,,Orçamento municipal,,MMAM2311,B082111
+,,Governo Federal,,MMAM2312,B082112
+,,Governo Estadual,,MMAM2313,B082113
+,,Iniciativa privada,,MMAM2314,B082114
+,,ONG,,MMAM2315,B082115
+,,Doações,,MMAM2316,B082116
+,,Outros,,MMAM2317,B082117
+,Serviço(s) ambiental(is) abrangido(s),,,,
+,,Pagamento por ações/iniciativas que promovam a conservação e a recuperação ou melhoramento da quantidade e da qualidade dos recursos hídricos,,MMAM241,B08221
+,,Pagamento por ações/iniciativas de conservação e preservação da vegetação nativa e da vida silvestre,,MMAM242,B08222
+,,"Pagamento por ações/iniciativas que promovam a conservação, a recuperação ou preservação do ambiente natural nas áreas de Unidades de Conservação, em suas respectivas zonas de amortecimento e nas Terras Indígenas",,MMAM243,B08223
+,,"Pagamento por ações/iniciativas de recuperação e conservação dos solos e recomposição da cobertura vegetal e de áreas degradadas, através do plantio de espécies nativas em sistema agroflorestal",,MMAM244,B08224
+,,"Pagamento por ações/iniciativas de conservação de remanescentes da vegetação em áreas urbanas, de importância para a manutenção e melhoramento da qualidade do ar, dos recursos hídricos e da qualidade de vida da população",,MMAM245,B08225
+,,"Pagamento por ações/iniciativas que visem especificamente a captura e retenção de carbono, com objetivo de mitigação das mudanças climáticas (conservação/restauração de ecossistemas naturais, recuperação de áreas degradadas, e adoção de práticas de manejo de sistemas agrícolas, agroflorestais e silvipastoris)",,MMAM246,B08226
+,,Outros,,MMAM247,B08227
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+6.9 Impacto Ambiental e/ou processo/ação que resulte em impacto no ambiente,,,,,
+Observação no município da ocorrência de algum impacto ambiental e/ou processo/ação que resulte em impacto no ambiente nos últimos 24 meses,,,,MMAM25,B0823
+,Impactos ambientais e/ou processos/ações de maior ocorrência,,,,
+,,"Condições climáticas extremas (secas, enxurradas)",,MMAM261,B08241
+,,Poluição do ar,,MMAM262,B08242
+,,Poluição de algum corpo d’água,,MMAM263,B08243
+,,Assoreamento de algum corpo d’água,,MMAM264,B08244
+,,Diminuição de vazão de algum corpo d’água,,MMAM265,B08245
+,,Desmatamentos,,MMAM266,B08246
+,,Queimadas,,MMAM267,B08247
+,,"Contaminação do solo (por agrotóxicos, fertilizantes)",,MMAM268,B08248
+,,"Perda de solos por erosão e/ou desertificação (voçorocas, arenização)",,MMAM269,B08249
+,,Degradação de áreas legalmente protegidas,,MMAM2610,B082410
+,,Diminuição da biodiversidade (fauna e flora),,MMAM2611,B082411
+,,Existência de moradia em situação de risco ambiental,,MMAM2612,B082412
+,,Falta de saneamento (destinação inadequada do esgoto doméstico),,MMAM2613,B082413
+,,Outros,,MMAM2614,B082414
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+7. GESTÃO DE RISCOS E RESPOSTA A DESASTRES,,,,,
+7.1 Seca,,,,,
+7.2 Alagamentos e processo erosivo,,,,subtítulo link,
+7.3 Enchente ou inundação gradual,,,,subtítulo link,
+7.4 Enxurrada ou inundação brusca,,,,subtítulo link,
+7.5 Escorregamento ou deslizamento de encosta ,,,,subtítulo link,
+7.6 Gerenciamento de riscos,,,,subtítulo link,
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+7. GESTÃO DE RISCOS E RESPOSTA A DESASTRES,,,,,
+7.1 Seca,,,,,
+O município foi atingido pela seca nos últimos 4 anos,,,,MGRD01,B0901
+,Ano em que aconteceu a seca de maior impacto para o município,,,MGRD02,B0902
+,No ano de seca de maior impacto para o município ocorreram,,,,
+,,Perdas financeiras,,MGRD031,B09031
+,,Perdas humanas,,MGRD032,B09032
+,,Perdas de animais,,MGRD033,B09033
+,,Perdas ambientais,,MGRD034,B09034
+,,Perda ou redução da produção agrícola,,MGRD035,B09035
+,,Surgimento ou aumento de área de desertificação,,MGRD036,B09036
+,,Concentração de poluentes na água exigindo ampliação na captação e no tratamento da água,,MGRD037,B09037
+,,Outras,,MGRD038,B09038
+,,Não sabe informar,,MGRD039,B09039
+,O que está sendo feito no município para evitar ou minimizar os danos causados pela seca,,,,
+,,Construção de cisternas,,MGRD041,B09041
+,,Construção de açudes,,MGRD042,B09042
+,,Construção de barragens,,MGRD043,B09043
+,,Construção de poços,,MGRD044,B09044
+,,Revegetação,,MGRD045,B09045
+,,"Incentivo público à agricultura adaptada ao clima e solo da região, com sistemas de irrigação",,MGRD046,B09046
+,,Distribuição regular de água através de carros-pipa em épocas de estiagem (situações de emergência),,MGRD047,B09047
+,,"Ações de uso sustentável dos recursos naturais (fontes de energia eólica ou solar, planos de bacia, programas de conscientização e sensibilização, etc.)",,MGRD048,B09048
+,,Outras,,MGRD049,B09049
+,,Não sabe informar,,MGRD0410,B090410
+,,,,,
+O município possui Plano de Contingência e/ou Preservação para a seca,,,,MGRD05,B0905
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+7.2 Alagamentos e processo erosivo,,,,,
+O município foi atingido por alagamentos nos últimos 4 anos,,,,MGRD06,B0906
+O município foi atingido por processo erosivo acelerado nos últimos 4 anos,,,,MGRD07,B0907
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+7.3 Enchente ou inundação gradual,,,,,
+O município foi atingido por enchentes ou inundações graduais nos últimos 4 anos,,,,MGRD08,B0908
+Em que ano aconteceu a enchente ou inundação gradual de maior impacto para o município,,,,MGRD09,B0909
+No ano de enchente ou inundação gradual de maior impacto para o município,,,,,
+,Edificações foram atingidas,,,MGRD101,B09101
+,,Área atingida,,MGRD1011,B091011
+,Pessoas foram desalojadas ou ficaram desabrigadas,,,MGRD102,B09102
+,,Área de desalojamento ou desabrigo,,MGRD1021,B091021
+,Ocorreram óbitos,,,MGRD103,B09103
+,,Área dos óbitos,,MGRD1031,B091031
+,Áreas do município em que ocorreram as enchentes ou inundações graduais,,,,
+,,Naturalmente inundáveis,,MGRD1041,B091041
+,,Não usualmente inundáveis,,MGRD1042,B091042
+,,Com ocupações regulares,,MGRD1043,B091043
+,,Com ocupações irregulares,,MGRD1044,B091044
+,,Com existência de processo erosivo acelerado,,MGRD1045,B091045
+,,Outras áreas,,MGRD1046,B091046
+,,Não sabe,,MGRD1047,B091047
+,Ações para evitar ou minimizar os danos causados por enchentes ou inundações graduais,,,,
+,,Barragem à montante para equalização das cheias,,MGRD1051,B091051
+,,Construção de canais de macrodrenagens,,MGRD1052,B091052
+,,Construção de parque,,MGRD1053,B091053
+,,Construção de reservatórios de amortecimento de cheias,,MGRD1054,B091054
+,,Desassoreamento de corpos hídricos,,MGRD1055,B091055
+,,"Retificação de rios, aumento de calha ou desvio de cursos d’água",,MGRD1056,B091056
+,,Realocação da população que vive em área de risco,,MGRD1057,B091057
+,,Revegetação,,MGRD1058,B091058
+,,Revitalização de rios ou bacias,,MGRD1059,B091059
+,,Outra solução,,MGRD10510,B0910510
+,,Nenhuma intervenção,,MGRD10511,B0910511
+,,Não sabe,,MGRD10512,B0910512
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+7.4 Enxurrada ou inundação brusca,,,,,
+O município foi atingido por enxurradas ou inundações bruscas nos últimos 4 anos,,,,MGRD11,B0911
+Em que ano aconteceu a enxurrada ou inundação brusca de maior impacto para o município,,,,MGRD12,B0912
+No ano de enxurrada ou inundação brusca de maior impacto para o município,,,,,
+,Edificações foram atingidas,,,MGRD131,B09131
+,,Área atingida,,MGRD1311,B091311
+,Pessoas foram desalojadas ou ficaram desabrigadas,,,MGRD132,B09132
+,,Área de desalojamento ou desabrigo,,MGRD1321,B091321
+,Ocorreram óbitos,,,MGRD133,B09133
+,,Área dos óbitos,,MGRD1331,B091331
+,Áreas do município em que ocorreram as enxurradas ou inundações bruscas,,,,
+,,Naturalmente inundáveis,,MGRD1341,B091341
+,,Não usualmente inundáveis,,MGRD1342,B091342
+,,Com ocupações regulares,,MGRD1343,B091343
+,,Com ocupações irregulares,,MGRD1344,B091344
+,,Com existência de processo erosivo acelerado,,MGRD1345,B091345
+,,Outras áreas,,MGRD1346,B091346
+,,Não sabe,,MGRD1347,B091347
+,Ações para evitar ou minimizar os danos causados por enxurradas ou inundações bruscas,,,,
+,,Barragem à montante para equalização das cheias,,MGRD1351,B091351
+,,Construção de canais de macrodrenagens,,MGRD1352,B091352
+,,Construção de parque,,MGRD1353,B091353
+,,Construção de reservatórios de amortecimento de cheias,,MGRD1354,B091354
+,,Desassoreamento de corpos hídricos,,MGRD1355,B091355
+,,"Retificação de rios, aumento de calha ou desvio de cursos d’água",,MGRD1356,B091356
+,,Realocação da população que vive em área de risco,,MGRD1357,B091357
+,,Revegetação,,MGRD1358,B091358
+,,Revitalização de rios ou bacias,,MGRD1359,B091359
+,,Outra solução,,MGRD13510,B0913510
+,,Nenhuma intervenção,,MGRD13511,B0913511
+,,Não sabe,,MGRD13512,B0913512
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+7.5 Escorregamento ou deslizamento de encosta ,,,,,
+O município foi atingido por escorregamentos ou deslizamentos de encostas nos últimos 4 anos,,,,MGRD14,B0914
+Ano em que aconteceu o escorregamento ou deslizamento de encosta de maior impacto para o município,,,,MGRD15,B0915
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,,,,,
+,Edificações foram atingidas,,,MGRD161,B09161
+,,Área atingida,,MGRD1611,B091611
+,Pessoas foram desalojadas ou ficaram desabrigadas,,,MGRD162,B09162
+,,Área de desalojamento ou desabrigo,,MGRD1621,B091621
+,Ocorreram óbitos,,,MGRD163,B09163
+,,Área dos óbitos,,MGRD1631,B091631
+,Áreas do município em que ocorreram os escorregamentos ou deslizamentos de encostas,,,,
+,,De taludes e encostas sujeitas a deslizamentos,,MGRD1641,B091641
+,,Urbanas com processos erosivos crônicos,,MGRD1642,B091642
+,,Sem infraestrutura de drenagem,,MGRD1643,B091643
+,,Com ocupações regulares,,MGRD1644,B091644
+,,Com ocupações irregulares,,MGRD1645,B091645
+,,Sem ocupação,,MGRD1646,B091646
+,,Outras áreas,,MGRD1647,B091647
+,,Não sabe,,MGRD1648,B091648
+,Ações para evitar ou minimizar os danos causados por escorregamentos ou deslizamentos de encostas,,,,
+,,Estabilização e proteção de taludes,,MGRD1651,B091651
+,,Retaludamento de encostas,,MGRD1652,B091652
+,,Obras de contenção,,MGRD1653,B091653
+,,Construção de canais de macrodrenagens,,MGRD1654,B091654
+,,Realocação da população que vive em área de risco,,MGRD1655,B091655
+,,Revegetação de encostas,,MGRD1656,B091656
+,,Outra solução,,MGRD1657,B091657
+,,Nenhuma intervenção,,MGRD1658,B091658
+,,Não sabe,,MGRD1659,B091659
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+7.6 Gerenciamento de riscos,,,,,
+O município possui como instrumento de planejamento,,,,,
+,"Plano Diretor que contemple a prevenção de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas",,,MGRD171,B09171
+,"Lei de Uso e Ocupação do Solo que contemple a prevenção de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas",,,MGRD172,B09172
+,"Lei específica que contemple a prevenção de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas",,,MGRD173,B09173
+,Plano Diretor que contemple a prevenção de escorregamentos ou deslizamentos de encostas,,,MGRD174,B09174
+,Lei de Uso e Ocupação do Solo que contemple a prevenção de escorregamentos ou deslizamentos de encostas,,,MGRD175,B09175
+,Lei específica que contemple a prevenção de escorregamentos ou deslizamentos de encostas,,,MGRD176,B09176
+,Plano Municipal de Redução de Riscos,,,MGRD177,B09177
+,Carta geotécnica de aptidão à urbanização,,,MGRD178,B09178
+,Nenhum dos instrumentos,,,MGRD179,B09179
+"Em relação ao gerenciamento de riscos de desastres decorrentes de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas, o município possui",,,,,
+,Mapeamentos de áreas de risco de enchentes ou inundações,,,MGRD181,B09181
+,"Programa habitacional para realocação de população de baixa renda em área de risco (reassentamento em empreendimento de habitação de interesse social, pagamento de aluguel social ou similar, indenização de benfeitoria, compra de uma nova moradia, auxílio financeiro específico, entre outros)",,,MGRD182,B09182
+,Mecanismos de controle e fiscalização para evitar ocupação em áreas suscetíveis aos desastres,,,MGRD183,B09183
+,Plano de Contingência,,,MGRD184,B09184
+,Projetos de engenharia relacionados ao evento,,,MGRD185,B09185
+,Sistema de alerta antecipado de desastres,,,MGRD186,B09186
+,Cadastro de risco,,,MGRD187,B09187
+,Nenhum dos itens,,,MGRD188,B09188
+"Em relação ao gerenciamento de riscos de desastres decorrentes de escorregamentos ou deslizamento de encostas, o município possui",,,,,
+,Mapeamentos de áreas de risco de enchentes ou inundações,,,MGRD191,B09191
+,"Programa habitacional para realocação de população de baixa renda em área de risco (reassentamento em empreendimento de habitação de interesse social, pagamento de aluguel social ou similar, indenização de benfeitoria, compra de uma nova moradia, auxílio financeiro específico, entre outros)",,,MGRD192,B09192
+,Mecanismos de controle e fiscalização para evitar ocupação em áreas suscetíveis aos desastres,,,MGRD193,B09193
+,Plano de Contingência,,,MGRD194,B09194
+,Projetos de engenharia relacionados ao evento,,,MGRD195,B09195
+,Sistema de alerta antecipado de desastres,,,MGRD196,B09196
+,Cadastro de risco,,,MGRD197,B09197
+,Nenhum dos itens,,,MGRD198,B09198
+"Em relação à gestão de riscos e resposta a desastres, existe no município",,,,,
+,Unidade do Corpo de Bombeiros,,,MGRD201,B09201
+,Coordenação Municipal de Defesa Civil (COMDECs),,,MGRD202,B09202
+,Núcleo de Defesa Civil (NUDECs),,,MGRD203,B09203
+,Nenhuma das citadas,,,MGRD204,B09204
+,Não sabe,,,MGRD205,B09205
+,,,,,
+"Fonte: IBGE, Pesquisa de Informações Básicas Municipais – 2017",,,,,
+,,,,,
+8 Variáveis externas,,,,,
+Região,,,,REGIAO,
+Código da Unidade da Federação,,,,COD UF,
+Sigla da Unidade da Federação,,,,UF,
+Nome do município,,,,NOME MUNIC,
+População estimada de 2017*,,,,POP EST,
+Classe de tamanho da população estimada de 2017,,,,CLASSE POP,
+,,,,,
+*Estimativas da população residente nos municípios brasileiros com data de referência em 1º de julho de 2017.,,,,,
