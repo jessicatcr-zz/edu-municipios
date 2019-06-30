@@ -1,5 +1,3 @@
-# Conclusão
-
 Inicialmente, nosso objetivo era entender se municípios mineiros maiores tinham um desempenho no IDEB superior ao de municípios menores.
 Durante o processo resolvemos introduzir uma nova categoria de municípios, os Pequenos (P), entre os Muito Pequenos (MP) e Grandes (G). Ficando no fim, com três grupos. 
 
